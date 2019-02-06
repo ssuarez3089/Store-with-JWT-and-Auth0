@@ -4,7 +4,7 @@
   "description": "Servidor de express con jwt",
   "main": "index.js",
   "scripts": {
-    "servidor" : "nodemon ./index.js --exec babel-node -e js"
+    "servidor": "nodemon ./index.js --exec babel-node -e js"
   },
   "author": "Sergio Suarez",
   "license": "ISC",
